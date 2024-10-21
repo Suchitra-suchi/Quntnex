@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+    background:url("https://www.bing.com/th?id=OIP.-VirwnUgLW8TfBtY4DLPpwHaHa&w=82&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+h1{
+    color:deeppink;
+
+
+}
+
+li{
+    color:rgb(25, 35, 35);
+
+}
+h2{
+    color:chartreuse;
+}
+
